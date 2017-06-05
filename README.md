@@ -1,4 +1,8 @@
 # othelloFer
+
+* NOTA: 
+     El IP y PUERTO están setteados en localhost:3000, el tournament ID está en : 12
+
 * FILES:
 
      client.js: Este file tiene todo el protocolo de comunicación con el server
