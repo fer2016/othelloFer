@@ -1,4 +1,4 @@
-# othelloFer
+# Othello AI!
 
 * NOTA: 
 
